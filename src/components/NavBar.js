@@ -38,8 +38,8 @@ const NavBar = () => {
                 </Link>
               </li>
               <li className="nav-item">
-                <Link className="nav-link" to="/general">
-                  General
+                <Link className="nav-link" to="/politics">
+                  Politics
                 </Link>
               </li>
               <li className="nav-item">
